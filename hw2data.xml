@@ -3,61 +3,107 @@
     <data>
       <name>James Bond</name>
       <email>jb@seattleu.com</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2061234567</phone>
     </data>
     <data>
       <name>Brielle Williamson</name>
       <email>bw@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2062234567</phone>
     </data>
     <data>
       <name>Ashton Cox</name>
       <email>ac@seattleu.edu Author</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2063234567</phone>
+
     </data>
     <data>
       <name>Airi Satou</name>
       <email>as@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2064234567</phone>
     </data>
     <data>
       <name>Caesar Vance</name>
       <email>cv@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2065234567</phone>
     </data>
     <data>
       <name>Shad Decker</name>
       <email>Shad@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2066234567</phone>
     </data>
     <data>
       <name>Cedric Kelly</name>
       <email>Cedric@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2067234567</phone>
     </data>
     <data>
       <name>Haley Kennedy</name>
       <email>Haley@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2068234567</phone>
     </data>
     <data>
       <name>Colleen Hurst</name>
       <email>Colleen@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2069234567</phone>
     </data>
     <data>
       <name>Dai Rios</name>
       <email>Dai@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2061034567</phone>
     </data>
     <data>
       <name>Herrod Chandler</name>
       <email>Herrod@seattleu.edu</email>
+      <zipcode>98101</zipcode>
+      <country>US</country>
+      <phone>2061134567</phone>
     </data>
     <data>
       <name>Rhona Davidson</name>
       <email>Rhona@seattleu.edu</email>
+      <zipcode>98102</zipcode>
+      <country>US</country>
+      <phone>2061234567</phone>
     </data>
     <data>
       <name>Sonya Frost</name>
       <email>Sonya@seattleu.edu</email>
+      <zipcode>98102</zipcode>
+      <country>US</country>
+      <phone>2061144567</phone>
     </data>
     <data>
       <name>Jena Gaines</name>
       <email>Jena@seattleu.edu</email>
+      <zipcode>98122</zipcode>
+      <country>US</country>
+      <phone>2061136567</phone>
     </data>
     <data>
       <name>Quinn Flynn</name>
       <email>Quinn@seattleu.edu</email>
+      <zipcode>98108</zipcode>
+      <country>US</country>
+      <phone>2061134227</phone>
      </data>
   </employees>
